@@ -1,0 +1,9 @@
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/build
+instapk.log*
+libs/
+src/main/res/drawable/
+.idea/
